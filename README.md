@@ -9,20 +9,12 @@
 ## 📸 Visual Gallery
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td><img src="./visuals/Screenshot 2026-04-23 220150.png" width="400" alt="Dashboard Overview"/></td>
-      <td><img src="./visuals/Screenshot 2026-04-23 221057.png" width="400" alt="Financial Reports"/></td>
-    </tr>
-    <tr>
-      <td><img src="./visuals/Screenshot 2026-04-23 221019.png" width="400" alt="Transaction History"/></td>
-      <td><img src="./visuals/Screenshot 2026-04-23 221043.png" width="400" alt="Goal Tracking"/></td>
-    </tr>
-     <tr>
-      <td><img src="./visuals/Screenshot 2026-04-23 220318.png" width="400" alt="Budget Planning"/></td>
-      <td><img src="./visuals/Screenshot 2026-04-23 221000.png" width="400" alt="Login Interface"/></td>
-    </tr>
-  </table>
+  <img src="./visuals/Screenshot 2026-04-23 220150.png" width="800" alt="Dashboard Overview"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 221057.png" width="800" alt="Financial Reports"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 221019.png" width="800" alt="Transaction History"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 221043.png" width="800" alt="Goal Tracking"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 220318.png" width="800" alt="Budget Planning"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 221000.png" width="800" alt="Login Interface"/>
 </div>
 
 ---
