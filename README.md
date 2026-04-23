@@ -11,11 +11,12 @@
 <div align="center">
   <img src="./visuals/Screenshot 2026-04-23 220150.png" width="800" alt="Dashboard Overview"/><br/><br/>
   <img src="./visuals/Screenshot 2026-04-23 220943.png" width="800" alt="Landing Page"/><br/><br/>
-  <img src="./visuals/Screenshot 2026-04-23 221057.png" width="800" alt="Financial Reports"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 221000.png" width="800" alt="Login Interface"/><br/><br/>
   <img src="./visuals/Screenshot 2026-04-23 221019.png" width="800" alt="Transaction History"/><br/><br/>
   <img src="./visuals/Screenshot 2026-04-23 221043.png" width="800" alt="Goal Tracking"/><br/><br/>
+  <img src="./visuals/Screenshot 2026-04-23 221057.png" width="800" alt="Financial Reports"/><br/><br/>
   <img src="./visuals/Screenshot 2026-04-23 220318.png" width="800" alt="Budget Planning"/><br/><br/>
-  <img src="./visuals/Screenshot 2026-04-23 221000.png" width="800" alt="Login Interface"/>
+  
 </div>
 
 ---
