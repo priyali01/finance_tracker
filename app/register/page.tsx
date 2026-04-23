@@ -243,6 +243,18 @@ export default function RegisterPage() {
               Continue with Google
             </Button>
 
+            <div className="relative py-2">
+              <Separator className="bg-gray-700/50" />
+            </div>
+
+            <Button
+              onClick={() => router.push("/dashboard")}
+              variant="ghost"
+              className="w-full text-purple-400 hover:text-purple-300 hover:bg-purple-500/10 border border-purple-500/30 rounded-full py-3"
+            >
+              🚀 Demo Mode (Explore Visuals)
+            </Button>
+
             <p className="text-center text-gray-400">
               Already have an account?{" "}
               <Link href="/login" className="text-purple-400 hover:text-purple-300 font-medium">

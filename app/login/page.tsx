@@ -34,7 +34,7 @@ export default function LoginPage() {
       setError(err.message || "Login failed");
     } finally {
       setIsLoading(false);
-  }
+    }
   };
 
   return (
@@ -162,6 +162,18 @@ export default function LoginPage() {
                 />
               </svg>
               Continue with Google
+            </Button>
+
+            <div className="relative py-2">
+              <Separator className="bg-gray-700/50" />
+            </div>
+
+            <Button
+              onClick={() => router.push("/dashboard")}
+              variant="ghost"
+              className="w-full text-purple-400 hover:text-purple-300 hover:bg-purple-500/10 border border-purple-500/30 rounded-full py-3"
+            >
+              🚀 Demo Login (Explore Visuals)
             </Button>
 
             <p className="text-center text-gray-400">
